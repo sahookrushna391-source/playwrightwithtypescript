@@ -30,3 +30,11 @@ export const generateInvalidUser = (): User => ({
   username: faker.internet.username(),
   password: faker.internet.password({ length: 12 }),
 });
+
+export const CheckoutData: Record<'standard', CheckoutInfo> = {
+  standard: {
+    firstName: 'John',
+    lastName: 'Doe',
+    postalCode: '10001',
+  },
+};

@@ -37,6 +37,8 @@
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-playwright": "^1.8.0",
+    "mongodb": "^7.4.0",
+    "mongodb-memory-server": "^11.2.0",
     "prettier": "^3.4.2",
     "typescript": "^5.7.2"
   },
