@@ -33,3 +33,6 @@ dist/
 # Allure
 allure-results/
 allure-report/
+
+# Local scratch folder
+doc/
